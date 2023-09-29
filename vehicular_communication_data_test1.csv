@@ -1,0 +1,4 @@
+channel_conditions,traffic_requirements,modulation_and_coding_scheme
+0.9,high,256-QAM
+0.7,medium,QPSK
+0.9,high,QPSK
